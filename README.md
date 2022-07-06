@@ -1,3 +1,3 @@
 run this command.....
 
-  git clone ***;python rk.py
+  git clone https://github.com/Rajkumar383691/Identity;python rk.py
